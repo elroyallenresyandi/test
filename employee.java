@@ -12,7 +12,7 @@ public employee(String n, double s) {
     name = n;
     salary = s;
 }
-    /*Constructor employee */
+    
 
     // method to print
 
